@@ -1,0 +1,36 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=23537 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=17765 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=44513 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=20965 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=27593 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=35989 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5188 outsize=5397 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3273 outsize=593 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9421 outsize=8677 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=30861 outsize=209 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15322 outsize=5617 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15322 outsize=6501 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15322 outsize=7789 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15322 outsize=7573 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15322 outsize=8773 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15322 outsize=9789 ok=1
+
+Quitting shader compiler process
