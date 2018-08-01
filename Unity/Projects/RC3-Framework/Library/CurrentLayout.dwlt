@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -107,10 +107,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 711, y: 492}
-  m_MaxSize: {x: 18006, y: 14042}
+  m_MinSize: {x: 713, y: 492}
+  m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 82
+  controlID: 26
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -278,8 +278,8 @@ MonoBehaviour:
     y: 0
     width: 277
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -495,23 +495,23 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 343a0000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: da85ffff52adffffe6fbffff00000000963c0000726d0000
+    m_ExpandedIDs: e6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Camera Pivot
-      m_OriginalName: Camera Pivot
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 27626
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -557,20 +557,19 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets/Examples/WFC Demo/Materials
+    m_Folders: []
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: A:\!!!!!!!!!!!!!!! Final RC3\Unity\GitHubFolder\new-repository-\lastVersionJulyPresentation\Unity\Projects\RC3-Framework
+  m_LastProjectPath: A:\!!!!!!!GitHub stuff\AugustGit\August-Folder\Unity\Projects\RC3-Framework
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: e80c0000
     m_LastClickedID: 3304
-    m_ExpandedIDs: 00000000bc110000c0110000e21300003a150000f41500000c1600007a160000ec1600005617000008180000381800005c180000361900005a190000fc1c0000f61d0000aa1f00007a200000ba210000de230000402500006025000094270000b8270000fc290000ba2a0000f22a00005a2e0000fc2f000064300000ca300000d03000007232000074330000b6360000d83600002c3800006c38000078390000e2600000e4600000e6600000e8600000
+    m_ExpandedIDs: 00000000be110000c2110000fa13000056150000161600002e160000b216000028170000981700005c1800008e180000b81800009e190000c61900009a1d0000a01e0000622000003621000084220000ce2400006e2500004226000068260000ba280000e02800004a2b0000142c0000502c0000d22f000088310000f4310000643200006c320000dc32000022340000e63400002e35000088380000ac3800000c3a0000503a00006e3b0000ea620000ec620000ee620000f0620000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -598,7 +597,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 548}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000bc110000c0110000e21300003a150000f41500000c1600007a160000ec1600005617000008180000381800005c180000361900005a190000fc1c0000f61d0000aa1f00007a200000ba210000de23000072240000402500006025000094270000b8270000fc290000ba2a0000f22a00005a2e0000fc2f000064300000ca300000d03000003e310000723200003033000074330000b6360000d83600002c3800006c38000078390000e2600000e4600000e6600000e8600000
+    m_ExpandedIDs: ffffffff00000000be110000c2110000fa13000056150000161600002e160000b216000028170000981700005c1800008e180000b81800009e190000c61900009a1d0000a01e0000622000003621000084220000ce2400006e2500004226000068260000ba280000e02800004a2b0000142c0000502c0000d22f000088310000f4310000643200006c320000dc32000022340000e63400002e35000088380000ac3800000c3a0000503a00006e3b0000ea620000ec620000ee620000f0620000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
